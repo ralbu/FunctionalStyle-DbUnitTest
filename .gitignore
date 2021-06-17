@@ -166,4 +166,5 @@ $RECYCLE.BIN/
 node_modules
 
 PublishProfiles/
-tars
+*.ncrunchproject
+*.ncrunchsolution
